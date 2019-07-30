@@ -1,0 +1,78 @@
+* {
+    text-align: center;
+}
+
+.header {
+    height: 10%;
+    width: auto;
+    font-size: 1em;
+    color: white;
+    background: rgb(128,130,133);
+    padding: 1.5%;
+    text-align: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+    height: auto;
+    width: 65%;
+}
+
+.victory {
+    background: rgb(35,31,32);
+    padding: 1.5%;
+    height: 10%;
+    width: auto;
+    color: rgb(223,187,36);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+}
+
+.weekClasses {
+    font-family: 'Hi Melody', cursive;
+    color: rgb(35,31,32);
+    font-size: 3em;
+}
+
+.weekSchedule{
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(35,31,32);
+}
+
+.nextGroup {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(223,187,36);
+}
+
+.btn {
+    border-radius: 60%;
+    width: 45%;
+    padding: .5%;
+    background-color: rgb(223,187,36);
+    color:white;
+    font-family: 'Hi Melody', cursive;
+    font-size: 4em;
+}
+
+.homeFooter {
+    margin-top: 2%;
+    color: rgb(128,130,133);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    height: 5%;
+    width: auto;
+    padding: .5%;
+    display: bottom;
+}
